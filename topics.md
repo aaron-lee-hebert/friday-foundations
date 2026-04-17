@@ -2,7 +2,7 @@
 
 ## Quarter 1 — C# Fundamentals You May Have Glossed Over (Weeks 1–13)
 
-- [ ] **Week 1 — Value types vs. reference types** — How the stack and heap actually work, why it matters for structs, classes, and passing arguments by value vs. reference.
+- [x] **Week 1 — Value types vs. reference types** — How the stack and heap actually work, why it matters for structs, classes, and passing arguments by value vs. reference.
 - [ ] **Week 2 — Boxing and unboxing** — What it is, when it happens silently, and the hidden performance cost hiding in legacy code.
 - [ ] **Week 3 — The `using` keyword — all of it** — `using` directives, `using` statements, `using` declarations (C# 8+), and `IDisposable` properly implemented.
 - [ ] **Week 4 — Delegates, `Func`, and `Action`** — What delegates actually are under the hood, why `Func<T>` and `Action<T>` exist, and how they connect to LINQ and events.
