@@ -9,7 +9,7 @@
 - [ ] **Week 5 — Events and the observer pattern in C#** — How `event` wraps a delegate, the publisher/subscriber contract, and EventHandler conventions.
 - [ ] **Week 6 — Generics — beyond `List<T>`** — Generic constraints (`where T : class`, `new()`, `IComparable`), generic methods, and why they matter for reusable design.
 - [ ] **Week 7 — Interfaces vs. abstract classes** — The real distinction, when to choose which, and why "program to an interface" isn't just a slogan.
-- [ ] **Week 8 — Access modifiers — all of them** — `internal`, `protected internal`, `private protected`, and why `internal` is underused in well-structured assemblies.
+- [x] **Week 8 — Access modifiers — all of them** — `internal`, `protected internal`, `private protected`, and why `internal` is underused in well-structured assemblies.
 - [ ] **Week 9 — LINQ — how it actually works** — Deferred execution, `IEnumerable<T>` vs. `IQueryable<T>`, and why this distinction breaks things silently in NHibernate.
 - [ ] **Week 10 — Async/await — the real model** — The state machine under the hood, `ConfigureAwait(false)`, `Task` vs. `ValueTask`, and common deadlock traps in ASP.NET.
 - [ ] **Week 11 — Nullable reference types (C# 8+)** — The `?` annotation system, what the compiler enforces vs. what it doesn't, and why null is called a "billion-dollar mistake."
